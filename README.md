@@ -1,0 +1,1 @@
+# This repository conatins the fundamentals of javascript , important output based questions , polyfills
